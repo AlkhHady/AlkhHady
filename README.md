@@ -116,6 +116,43 @@ Low-Level Engineering
     ├── Reverse Engineering
     └── Exploit Development
 ```
+## Security Research & Writeups
+
+I document my learning process, technical investigations, and security research through practical writeups.
+
+| Topic | Description |
+|---|---|
+| Active Directory | Enumeration, authentication, and attack paths |
+| Web Security | Vulnerability analysis and exploitation |
+| Linux Privilege Escalation | System enumeration and privilege boundaries |
+| Windows Security | Windows internals and privilege escalation |
+| Exploit Development | Binary analysis and exploitation fundamentals |
+
+Explore my [Security Research Repository](https://github.com/AlkhHady/security-research).
+
+## Current Focus
+
+- Active Directory Security & Enumeration
+- Windows and Linux Privilege Escalation
+- Web Application Security
+- Reverse Engineering
+- x86-64 Assembly & Binary Exploitation
+- Low-Level Programming with C and Go
+
+### VocaLine
+**Collaborative Project | AI Engineering | Healthcare Technology**
+
+An AI powered voice companion designed to support hospitalized
+patients through conversational interaction, emergency detection,
+and nurse notification workflows.
+
+Developed collaboratively as part of a team project.
+
+**My Contributions:** [Backend and QA Tester]
+
+**Tech Stack:** TypeScript, Python, Docker, PostgreSQL
+
+[Team Repository](https://github.com/labubungoding/VocaLineV3)
 
 ## GitHub Statistics
 
